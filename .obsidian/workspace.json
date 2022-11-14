@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "1286dbf1012c0bb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "308cfdb955667b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b86e3be922e36cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73d17a64250d3270",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9648d5f74dee48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047d728b50da8497",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff39c73d44f529e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5a48890a6280399",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce9a82af1901c930",
+    "type": "split",
+    "children": [
+      {
+        "id": "51757d631ad2357a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49235980a37dca62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "069f26c3b7740686",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d02b7cb7b1201542",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "32e9f0705ad61475",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md"
+              }
+            }
+          },
+          {
+            "id": "1acee1414eb0add2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b86e3be922e36cca",
+  "lastOpenFiles": [
+    "Dave Elman Induction.md",
+    "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md",
+    "Hypnosis.md",
+    "Bird Flu Precautions.md",
+    "personal_wiki/kink/hypnokink/Visualisation Induction.md",
+    "Confusion Induction.md",
+    "personal_wiki/kink/hypnokink/Fixation Induction.md",
+    "Home.md",
+    "personal_wiki/kink/hypnokink/Progressive Muscle Relaxation.md",
+    "personal_wiki/kink/hypnokink/Hypnoplay.md"
+  ]
+}
