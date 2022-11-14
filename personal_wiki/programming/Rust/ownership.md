@@ -10,12 +10,12 @@ First, let’s take a look at the ownership rules. Keep these rules in mind as w
 - Each value in Rust has an _owner_.
 - There can only be one owner at a time.
 - When the owner goes out of scope, the value will be dropped.
-- [[references_and_borrowing|References]] do not have ownership of the data to which they refer.
+- [[References & Borrowing|References]] do not have ownership of the data to which they refer.
 
 Before reading on, it helps to understand how memory is allocated, and about move, clone, and the copy trait.
 
-- ## [[memory_and_allocation|Memory and Allocation]]
-- ## [[ways_variables_and_data_interact|Ways Variables and Data Interact]]
+- ## [[Memory & Allocation|Memory and Allocation]]
+- ## [[Ways variables & data interact|Ways Variables and Data Interact]]
 
 
 ## Ownership and Functions
@@ -106,4 +106,4 @@ fn calculate_length(s: String) -> (String, usize) {
 }
 ```
 
-But this is too much ceremony and a lot of work for a concept that should be common. Luckily for us, Rust has a feature for using a value without transferring ownership, called _[[references_and_borrowing|references]]_.
+But this is too much ceremony and a lot of work for a concept that should be common. Luckily for us, Rust has a feature for using a value without transferring ownership, called _[[References & Borrowing|references]]_.

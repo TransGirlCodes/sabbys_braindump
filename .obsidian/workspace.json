@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md",
+                "file": "personal_wiki/Actuarial Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md",
+                "file": "personal_wiki/Actuarial Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md",
+                "file": "personal_wiki/Actuarial Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md"
+                "file": "personal_wiki/Actuarial Science.md"
               }
             }
           },
@@ -144,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b86e3be922e36cca",
+  "active": "1acee1414eb0add2",
   "lastOpenFiles": [
-    "netlify.toml.md",
-    "Home.md",
-    "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md",
-    "Dave Elman Induction.md",
-    "Hypnosis.md",
-    "Bird Flu Precautions.md",
-    "personal_wiki/kink/hypnokink/Visualisation Induction.md",
-    "Confusion Induction.md",
-    "personal_wiki/kink/hypnokink/Fixation Induction.md",
-    "personal_wiki/kink/hypnokink/Progressive Muscle Relaxation.md"
+    "personal_wiki/programming/Programming Languages.md",
+    "personal_wiki/programming/Programming.md",
+    "personal_wiki/programming/Data races.md",
+    "personal_wiki/programming/Rust/Ways variables & data interact.md",
+    "personal_wiki/programming/Rust/Slices.md",
+    "personal_wiki/programming/Rust/Rust.md",
+    "personal_wiki/programming/Rust/References & Borrowing.md",
+    "personal_wiki/programming/Rust/Ownership.md",
+    "personal_wiki/programming/Rust/Memory & Allocation.md",
+    "personal_wiki/programming/Rust/Custom Slices.md"
   ]
 }

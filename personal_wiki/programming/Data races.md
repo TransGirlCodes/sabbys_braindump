@@ -1,5 +1,3 @@
-# Data Races
-
 A _data race_ is similar to a race condition and happens when these three behaviors occur:
 
 -   Two or more pointers access the same data at the same time.

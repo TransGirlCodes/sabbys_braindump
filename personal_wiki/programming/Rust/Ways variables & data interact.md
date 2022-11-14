@@ -1,6 +1,4 @@
-# Ways Variables and Data Interact
-
-## Move
+# Move
 
 Consider this code:
 
@@ -37,7 +35,8 @@ That solves our problem! With only `s2` valid, when it goes out of scope, it alo
 
 In addition, there’s a design choice that’s implied by this: Rust will never automatically create “deep” copies of your data. Therefore, any _automatic_ copying can be assumed to be inexpensive in terms of runtime performance.
 
-## Clone
+
+# Clone
 
 If we _do_ want to deeply copy the heap data of the `String`, not just the stack data, we can use a common method called `clone`. We’ll discuss method syntax in Chapter 5, but because methods are a common feature in many programming languages, you’ve probably seen them before.
 
@@ -54,7 +53,8 @@ This works just fine and explicitly produces the behavior shown in Figure 4-3, w
 
 When you see a call to `clone`, you know that some arbitrary code is being executed and that code may be expensive. It’s a visual indicator that something different is going on.
 
-## Stack-Only Data: Copy
+
+# Stack-Only Data: Copy
 
 This code works and is valid:
 

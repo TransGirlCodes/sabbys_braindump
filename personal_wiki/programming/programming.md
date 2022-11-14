@@ -1,5 +1,7 @@
-# Programming
+## D
+- [[Data races|Data Races]]
 
-- [[data_races|Data Races]]
+## [[Programming Languages|Programming Languages]]
 
-## [[programming_languages|Programming Languages]]
+
+
