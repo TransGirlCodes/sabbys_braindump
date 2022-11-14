@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1807821c868c4fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "netlify.toml.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md",
+                "file": "netlify.toml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md",
+                "file": "netlify.toml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md"
+                "file": "netlify.toml.md"
               }
             }
           },
@@ -137,23 +150,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b86e3be922e36cca",
+  "active": "1807821c868c4fa3",
   "lastOpenFiles": [
-    "Dave Elman Induction.md",
+    "Home.md",
+    "netlify.toml.md",
     "personal_wiki/kink/hypnokink/Hypnoplay - Inductions.md",
+    "Dave Elman Induction.md",
     "Hypnosis.md",
     "Bird Flu Precautions.md",
     "personal_wiki/kink/hypnokink/Visualisation Induction.md",
     "Confusion Induction.md",
     "personal_wiki/kink/hypnokink/Fixation Induction.md",
-    "Home.md",
-    "personal_wiki/kink/hypnokink/Progressive Muscle Relaxation.md",
-    "personal_wiki/kink/hypnokink/Hypnoplay.md"
+    "personal_wiki/kink/hypnokink/Progressive Muscle Relaxation.md"
   ]
 }
