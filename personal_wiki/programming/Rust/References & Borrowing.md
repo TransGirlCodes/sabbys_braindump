@@ -82,9 +82,9 @@ title: Beware
 Mutable references have one big restriction: if you have a mutable reference to a value, you can have no other simultaneous references to that value!
 ```
 
-The benefit of having this restriction is that Rust can prevent [[data_races|data races]] at compile time. 
+The benefit of having this restriction is that Rust can prevent [[Data races|data races]] at compile time. 
 
-[[data_races|Data races]] cause undefined behavior and can be difficult to diagnose and fix when you’re trying to track them down at runtime; Rust prevents this problem by refusing to compile code with [[data_races|data races]]!
+[[Data races|Data races]] cause undefined behavior and can be difficult to diagnose and fix when you’re trying to track them down at runtime; Rust prevents this problem by refusing to compile code with [[Data races|data races]]!
 
 ```ad-note
 We can use curly brackets to create a new scope, allowing for multiple mutable references, just not _simultaneous_ ones:
