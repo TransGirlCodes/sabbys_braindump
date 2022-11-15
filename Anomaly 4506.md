@@ -10,6 +10,7 @@ Anomaly was orgionally conceived of as a part-dronified human, who escaped, and 
 ## Images
 
 ![[FMHYiyWXsAMA4bi.jpg]]
-**Artist: Praxis Memetics:** 
+**Artist: [Praxis Memetics](https://linktr.ee/Miss_Praxis)**
 
 ![[FR6D0HCWYAIRMyq.jpg]]
+**Artist: [Sleepystephbot](https://ko-fi.com/sleepystephbot)**
