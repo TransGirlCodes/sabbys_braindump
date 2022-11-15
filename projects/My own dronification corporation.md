@@ -6,7 +6,7 @@ Sometimes I think StepForward is the name perhaps given to a suite of products t
 
 I sometimes think that the Corporation should be given a random if cool name, that doesen't tie them to one thing in particular like: Obsidian Research, or Indigo Innovation / Indigo Innovative Institute.
 
-If I were to go the very witchy route, I've thought about Magic.AI (said ma-jic-eye). 
+If I were to go the very witchy route, I've thought about "Magic.AI" (said ma-jic-eye). 
 
 # People
 

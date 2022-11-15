@@ -1,4 +1,4 @@
-# To Read
+# To read
 - The Capacity Contract, by Stacy Clifford Simplican
 
-# Have Read
+# Have read

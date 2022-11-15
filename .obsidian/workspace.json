@@ -20,19 +20,35 @@
             }
           },
           {
-            "id": "f601e013508ef2e8",
+            "id": "2603d06c3702b6cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My own dronification corporation.md",
+                "file": "Reading Lists.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c09a567966c2ad8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f987820a1c7f807e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My own dronification corporation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My own dronification corporation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My own dronification corporation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,17 +169,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f601e013508ef2e8",
+  "active": "f987820a1c7f807e",
   "lastOpenFiles": [
-    "projects/kink/Hypnokink Lore.md",
-    "projects/kink/Kinky Projects.md",
-    "My own dronification corporation.md",
-    "Zalika.md",
-    "Anomaly 4506.md",
-    "Reading Lists.md",
-    "Wishlist.md",
-    "My Lists.md",
-    "Home.md",
-    "maxresdefault-457894370.jpg"
+    "How documents become tools of institutional performance.md",
+    "projects/My own dronification corporation.md",
+    "projects/kink/MagicAI.md",
+    "Non-performative speech.md",
+    "Performative speech.md",
+    "digital-garden.md",
+    "Confusion Induction.md",
+    "Books.md",
+    "Videos.md",
+    "Reading Lists.md"
   ]
 }
