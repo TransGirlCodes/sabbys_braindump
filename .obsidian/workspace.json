@@ -8,47 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5988342ff97c8a7d",
+            "id": "8d68297d77f816f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/kink/Hypnokink Lore.md",
+                "file": "Money in Code.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2603d06c3702b6cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading Lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c09a567966c2ad8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f987820a1c7f807e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Money in Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Money in Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Money in Code.md"
+              }
             }
           },
           {
@@ -169,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f987820a1c7f807e",
+  "active": "8d68297d77f816f7",
   "lastOpenFiles": [
-    "How documents become tools of institutional performance.md",
-    "projects/My own dronification corporation.md",
-    "projects/kink/MagicAI.md",
-    "Non-performative speech.md",
-    "Performative speech.md",
-    "digital-garden.md",
-    "Confusion Induction.md",
-    "Books.md",
-    "Videos.md",
-    "Reading Lists.md"
+    "Money in Code.md",
+    "Cool Artists.md",
+    "My Lists.md",
+    "Reading Lists.md",
+    "Retro Stuff.md",
+    "personal_wiki/programming/Programming Languages.md",
+    "Python.md",
+    "projects/kink/Hypnokink Lore.md",
+    "projects/Anomaly 4506.md",
+    "personal_wiki/programming/Programming.md"
   ]
 }

@@ -1,3 +1,3 @@
-# [[Books]]
-# [[Articles]]
-# Videos
+# - [[Books]]
+# - [[Articles]]
+# - [[Videos]]
