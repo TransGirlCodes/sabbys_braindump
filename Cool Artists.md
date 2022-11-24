@@ -1,4 +1,8 @@
 - CarbonCats
 	- carboncats.com
 	- ![[Fh16QW0WAAA7bYq.jpg]]
-
+- Pup Rex
+	- Instagram: `@_puprex_`
+- Cry Buni
+	- [https://linktr.ee/cry_buni](https://t.co/30Aoo6m59B)
+	- 
